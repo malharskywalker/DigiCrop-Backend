@@ -511,14 +511,21 @@ Expected:
 ---
 
 ### Swagger Docs
+<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/708920ba-69d9-48e8-9fc4-3b98a25be761" />
+
 
 ### GET Request Success in Postman
+<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/81f36d87-d6c2-45bf-8e80-cfaeb8d8da77" />
 
 ### POST Request Success in Postman
+<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/fbae011d-c7d7-498d-818f-256b82632c71" />
 
 ### Duplicate Record Error
+<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/69c69d5b-43b5-4612-8cd2-06c9c44e8f67" />
+
 
 ### Plot Not Found Error
+<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/107a0062-a67b-4f4e-82bc-23892b744f0d" />
 
 ---
 
