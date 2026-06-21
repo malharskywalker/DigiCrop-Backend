@@ -1,4 +1,4 @@
-# DigiCrop Backend Assignment
+# DigiCrop Backend 
 
 A FastAPI-based backend service for managing **crop sensor telemetry data** using a JSON file as a mock NoSQL datastore.
 
@@ -360,8 +360,8 @@ Defines the FastAPI application and exposes the API routes.
 ## 1) Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/digicrop-assignment.git
-cd digicrop-assignment
+git clone https://github.com/malharskywalker/DigiCrop-Backend.git
+cd DigiCrop-Backend
 ```
 
 ---
