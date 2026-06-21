@@ -1,0 +1,124 @@
+{
+  "timeseries": [
+    {
+      "PK": "PLOT#001",
+      "SK": "TS#2026-06-01",
+      "date": "2026-06-01",
+      "temp": 32.5,
+      "humidity": 65,
+      "rainfall": 12.0,
+      "wind_speed": 14.2,
+      "N": 45,
+      "P": 30,
+      "K": 60
+    },
+    {
+      "PK": "PLOT#001",
+      "SK": "TS#2026-06-02",
+      "date": "2026-06-02",
+      "temp": 31.8,
+      "humidity": 68,
+      "rainfall": 8.5,
+      "wind_speed": 12.0,
+      "N": 44,
+      "P": 29,
+      "K": 59
+    },
+    {
+      "PK": "PLOT#001",
+      "SK": "TS#2026-06-03",
+      "date": "2026-06-03",
+      "temp": 33.1,
+      "humidity": 60,
+      "rainfall": 0.0,
+      "wind_speed": 15.1,
+      "N": 42,
+      "P": 28,
+      "K": 58
+    },
+    {
+      "PK": "PLOT#001",
+      "SK": "TS#2026-06-04",
+      "date": "2026-06-04",
+      "temp": 34.0,
+      "humidity": 58,
+      "rainfall": 0.0,
+      "wind_speed": 11.5,
+      "N": 42,
+      "P": 28,
+      "K": 58
+    },
+    {
+      "PK": "PLOT#001",
+      "SK": "TS#2026-06-05",
+      "date": "2026-06-05",
+      "temp": 29.5,
+      "humidity": 75,
+      "rainfall": 22.4,
+      "wind_speed": 18.3,
+      "N": 45,
+      "P": 32,
+      "K": 61
+    },
+    {
+      "PK": "PLOT#001",
+      "SK": "TS#2026-06-06",
+      "date": "2026-06-06",
+      "temp": 30.2,
+      "humidity": 72,
+      "rainfall": 15.1,
+      "wind_speed": 16.0,
+      "N": 43,
+      "P": 31,
+      "K": 60
+    },
+    {
+      "PK": "PLOT#001",
+      "SK": "TS#2026-06-07",
+      "date": "2026-06-07",
+      "temp": 31.0,
+      "humidity": 70,
+      "rainfall": 5.0,
+      "wind_speed": 13.4,
+      "N": 41,
+      "P": 30,
+      "K": 59
+    },
+    {
+      "PK": "PLOT#001",
+      "SK": "TS#2026-06-08",
+      "date": "2026-06-08",
+      "temp": 32.2,
+      "humidity": 64,
+      "rainfall": 0.0,
+      "wind_speed": 10.8,
+      "N": 40,
+      "P": 29,
+      "K": 57
+    },
+    {
+      "PK": "PLOT#001",
+      "SK": "TS#2026-06-09",
+      "date": "2026-06-09",
+      "temp": 33.5,
+      "humidity": 61,
+      "rainfall": 0.0,
+      "wind_speed": 12.5,
+      "N": 39,
+      "P": 29,
+      "K": 56
+    },
+    {
+      "PK": "PLOT#001",
+      "SK": "TS#2026-06-10",
+      "date": "2026-06-10",
+      "temp": 34.1,
+      "humidity": 59,
+      "rainfall": 1.2,
+      "wind_speed": 11.0,
+      "N": 38,
+      "P": 28,
+      "K": 55
+    }
+  ]
+}
