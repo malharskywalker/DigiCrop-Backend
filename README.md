@@ -33,8 +33,7 @@ This project was built as part of a backend/API development assignment and demon
 * [API Testing with Postman](#api-testing-with-postman)
 * [Screenshots](#screenshots)
 * [Design Decisions](#design-decisions)
-* [Dataset Note](#dataset-note)
-* [Future Improvements](#future-improvements)
+* [Conclusion](#conclusion)
 
 ---
 
