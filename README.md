@@ -422,15 +422,9 @@ You can test the endpoints directly from the browser using Swagger as well.
 
 # API Testing with Postman
 
-The assignment also requires **API testing using Postman**.
-This repository can include either:
-
-* an **exported Postman collection**, or
-* **clear screenshots** of the tested requests and responses
-
 ---
 
-## Recommended Postman test cases
+## Postman test cases
 
 ### 1. GET existing plot
 
@@ -563,8 +557,6 @@ This separation makes the project more maintainable:
 * **services.py** → business logic layer
 * **utils.py** → file and helper utilities
 * **main.py** → API routing layer
-
-This structure is cleaner than putting everything in one file and is closer to a real backend project layout.
 
 ---
 
